@@ -1,0 +1,9 @@
+{
+    "exe": "not_demo_switch_app.py", 
+    "name": "Inverted Demo Switch App", 
+    "url": "https://github.com/ContinuumBridge/not_demo_switch_app/archive/v1.0.0.tar.gz", 
+    "app_resource": "/api/bridge/v1/app/36", 
+    "version": "1.0.0", 
+    "provider": "ContinuumBridge", 
+    "description": "App to demonstrate turning a switch on and off from various buttons, etc"
+}
